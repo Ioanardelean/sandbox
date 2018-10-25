@@ -70,6 +70,7 @@ public class Application {
 	sum(12);
     }
 
+//fin classe main
     private static void sum(double... args) {
 	double total = 0.0;
 	for (double d : args) {
